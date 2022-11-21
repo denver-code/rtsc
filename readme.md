@@ -1,4 +1,5 @@
 # RTSC - Rust TypeScript Creator
+
 Instead of:
 ``` Bash
 $ mkdir super_backend
@@ -15,6 +16,7 @@ You can use:
 rtsc super_backend
 ```
 Pretty simple, right?  
+Despite the fact that I originally wrote this in bash, I decided to write something similar in Rast, since I am learning it.
 ![image-demo](image/Screenshot_1.png)
 # How to install binary app #1
 Download executable file from releases page, put this file somewhere in your pc and add path to that folder in your system Path var and restart shell.  
